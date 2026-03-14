@@ -1,0 +1,21 @@
+{
+  "auth": {
+    "username": "demo",
+    "password_hash": "2a97516c354b68848cdbd8f54a226a0a55b21ed138e207ad6c5cbb9c00aa5aea"
+  },
+  "telegram": {
+    "bot_token": "000000003444444444444444444444444444",
+    "chat_id": "00000"
+  },
+  "monitoring": {
+    "folders": []
+  },
+  "meta": {
+    "created_at": "2026-03-14T04:03:03.028102",
+    "updated_at": "2026-03-14T05:36:00.668977"
+  },
+  "alerts": {
+    "sound_enabled": true,
+    "toast_enabled": true
+  }
+}
